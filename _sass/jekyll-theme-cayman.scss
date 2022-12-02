@@ -64,19 +64,19 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(123, 141, 233, 0.9);/*rgba(255, 255, 255, 0.7);*/
+  background-color: rgba(123, 141, 233, 0.2);/*rgba(255, 255, 255, 0.08);*/
+  border-color: rgba(123, 141, 233, 0.5);/*rgba(255, 255, 255, 0.2);*/
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 1);/*rgba(255, 255, 255, 0.8);*/
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(123, 141, 233, 0.9);/*rgba(255, 255, 255, 0.2);*/
+    border-color: rgba(123, 141, 233, 0.5);/*rgba(255, 255, 255, 0.3);*/
   }
 
   + .btn {
@@ -93,8 +93,9 @@ a {
   }
 
   @include small {
-    display: block;
-    width: 100%;
+/*    display: block;
+    width: 25%;*/
+    text-align: center;
     padding: 0.75rem;
     font-size: 0.9rem;
 
@@ -106,22 +107,18 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
+    color: $header-heading-color;
+    max-width: 64rem;
+    margin: 0 auto;
+    height: 0;
+    padding: 2rem 6rem;
+    padding-bottom: 20%; /* for a 4:3 aspect ratio */
+    background-image: url('images/logo_RESPECT.png');
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    
+    border-bottom: solid 1px $hr-border-color;
 }
 
 .project-name {
@@ -199,6 +196,8 @@ a {
 
   img {
     max-width: 100%;
+    width: 100%;
+    height: auto;
   }
 
   h1,
