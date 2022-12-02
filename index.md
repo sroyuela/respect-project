@@ -2,16 +2,14 @@
 layout: default
 ---
 
-
-
-### The Vision
+# The Vision
 
 The RESPECT project is developing a unified framework that acilitates the development of advanced critical software targeting parallel and heterogeneous systems from two complementary points of view: (1) high-performance demands, considering productivity, portability and heterogeneity; and (2) critical demands, considering time and functional safety, maintainability and resilience.
 
 RESPECT will reduce the time and expenses needed for the development and the verification and validation processes of parallel critical systems as required in the automotive and space sectors, among others, having a direct societal impact due to its application on smart and connected transportation systems.
 
 
-### Objectives
+# Objectives
 
 1. Leverage the massive computational capabilities of modern parallel and heterogeneous architectures to allow the efficient development of critical software.
 
@@ -20,7 +18,7 @@ RESPECT will reduce the time and expenses needed for the development and the ver
 3. Simplify and promote parallel critical software.
 
 
-### Project description
+# Project description
 
 PROJECT NAME: Reliable Heterogeneous Parallelism for Embedded Critical Systems
 
