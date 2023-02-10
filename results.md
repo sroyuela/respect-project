@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Publications
+title: Results
 ---
 
-# Publications
+# Results
 
 Will add content soon!
 
