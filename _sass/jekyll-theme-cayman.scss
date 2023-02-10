@@ -200,6 +200,30 @@ a {
     height: auto;
   }
 
+  figure img {
+    vertical-align: center;
+  }
+
+  figure figcaption {
+    text-align: center;
+    font-size: 12px;
+  }
+  
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
+  
   h1,
   h2,
   h3,

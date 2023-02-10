@@ -19,6 +19,30 @@ RESPECT will reduce the time and expenses needed for the development and the ver
 3. Simplify and promote parallel critical software.
 
 
+# Partners
+
+ <div class="row">
+  <div class="column">
+   <figure>
+    <img src="assets/css/images/logo_bsc.png" alt="logo_bsc" style="width:100%"/>
+    <figcaption style="max-width: 100%;">Barcelona Supercomputing Center <br>(Project coordinator)</figcaption>
+   </figure>
+  </div>
+  <div class="column">
+   <figure>
+    <img src="assets/css/images/logo_bosch.png" alt="logo_bosch" style="width:100%"/>
+    <figcaption style="max-width: 100%;">Robert Bosch GmbH <br>(Project mentor)</figcaption>
+   </figure>
+  </div>
+  <div class="column">
+   <figure>
+    <img src="assets/css/images/logo_airbus.png" alt="logo_airbus" style="width:100%;"/>
+    <figcaption style="max-width: 100%;">Airbus Defence and Space <br>(Project mentor)</figcaption>
+   </figure>
+  </div>
+</div> 
+
+
 # Project description
 
 PROJECT NAME: Reliable Heterogeneous Parallelism for Embedded Critical Systems
