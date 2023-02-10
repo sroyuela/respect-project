@@ -9,7 +9,9 @@ title: The RESPECT Project
 
 <p>The project will develop Dependable Parallel Environment (DePE), an all-in-one tool with the next advantages over current solutions: (1) provide a correct-by-construction framework for the development of parallel applications with dependability and high-performance requirements; (2) allow a flexible and expressive way to expose the requirements of the system (i.e., safety, reliability, time and performance, including heterogeneity); (3) increase the productivity.</p>
 
-
 <p style="text-align:center;">
-<img src="assets/css/images/positioning.png" alt="positioning" width="70%"/>
+<figure>
+<img src="assets/css/images/positioning.png" alt="positioning" style="width:100%"/>
+<figcaption style="max-width: 100%;">DePE, the all-in-one tool for developing high-performance safety-critical systems</figcaption>
+</figure>
 </p>
