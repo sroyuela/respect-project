@@ -45,21 +45,39 @@ RESPECT will reduce the time and expenses needed for the development and the ver
 
 # Project description
 
-PROJECT NAME: Reliable Heterogeneous Parallelism for Embedded Critical Systems
-
-ACRONYM: RESPECT
-
-FUNDING SCHEME: AGAUR Industria del Coneixement - Producte 2021
-
-RECORD NUMBER: 2021 PROD 00179
-
-START DATE / END DATE: 19 October 2022 / 19 April 2024
-
-OVERALL BUDGET: €97,500
-
-PROJECT COORDINATOR: Barcelona Supercomputing Center (BSC).
-
-BUSINESS MENTORS: Robert Bosch GmbH (BOSCH) and Airbus Defense and Space (ADS).
-
+<table>
+  <tr>
+    <td>PROJECT NAME</td>
+    <td>Reliable Heterogeneous Parallelism for Embedded Critical Systems</td>
+  </tr>
+  <tr>
+    <td>ACRONYM</td>
+    <td>RESPECT</td>
+  </tr>
+  <tr>
+    <td>FUNDING SCHEME</td>
+    <td>AGAUR Industria del Coneixement - Producte 2021</td>
+  </tr>
+  <tr>
+    <td>RECORD NUMBER</td>
+    <td>2021 PROD 00179</td>
+  </tr>
+  <tr>
+    <td>START DATE / END DATE</td>
+    <td>19 October 2022 / 19 April 2024</td>
+  </tr>
+  <tr>
+    <td>OVERALL BUDGET</td>
+    <td>€97,500</td>
+  </tr>
+  <tr>
+    <td>PROJECT COORDINATOR</td>
+    <td>Barcelona Supercomputing Center (BSC)</td>
+  </tr>
+  <tr>
+    <td>BUSINESS MENTORS</td>
+    <td>Robert Bosch GmbH (BOSCH) and Airbus Defense and Space (ADS)</td>
+  </tr>
+</table>
 
 [back](./)
