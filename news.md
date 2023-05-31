@@ -6,6 +6,18 @@ title: News
 # News
 
 <div class="news-entry" style="margin-bottom:40px;">
+  <h2>RESPECT presented in the ISC conference</h2>
+  <h3>Sara Royuela, May 21, 2023</h3>
+  <p>The RESPECT project was presented in <a href="https://www.isc-hpc.com/project-posters-2023.html">ISC-HPC</a>, one of the most important forums for the global HPC community. Researchers Adrian Munera and Sara Royuela explained the advances made in the project to apply the DePE technology to the automotive and space domains. They also participated in "The OpenMP API v5.2 and v6.0 - What's There and What's to Come..." BoF session to discuss about the future of OpenMP.</p>
+  <p style="text-align:center;">
+   <figure>
+    <img src="assets/css/images/isc.png" alt="respect_isc" style="width:100%"/>
+    <figcaption style="max-width: 100%;">The RESPECT team in ISC-HPC.</figcaption>
+   </figure>
+  </p>
+</div>
+
+<div class="news-entry" style="margin-bottom:40px;">
   <h2>The enhanced program on entrepreneurship has started</h2>
   <h3>Sara Royuela, January 19, 2023</h3>
   <p>As part of the grant provided by the <i>Departament de Recerca i Universitats of the Generalitat de Catalunya</i> to develop RESPECT, today has started the <a href="https://agaur.gencat.cat/web/.content/Documents/Innovacio/Formacio_emprenedoria/IdC/Formacio-emprenedoria-PROD2021.pdf"><i>enhanced program on entrepreneurship</i></a>. The purpose of this program is to help in the generation of new business models for the valuation and transfer of research results. Chenle Yu, the entrepreneur scientist of RESPECT, has attended a webinar in which different experts in business models and strategies from TopBrands have introduced the entrepreneurship program.</p>
